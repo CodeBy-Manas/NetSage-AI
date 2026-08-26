@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-from src.engine import diagnose, save_audit_log
+from engine import diagnose, save_audit_log
 
 
 # =========================================================
