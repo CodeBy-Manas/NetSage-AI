@@ -141,6 +141,8 @@ Streamlit will provide a local address, normally:
 
 http://localhost:8501
 
+Streamlit-Deployed-Link - https://netsage-ai-manas.streamlit.app/
+
 Open that address in your browser.
 
 9. Using NetSage AI
